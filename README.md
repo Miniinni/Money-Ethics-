@@ -1,7 +1,5 @@
 # Money-Ethics-
 # Developer's Day Hackathon 22
- 
-![image](https://drive.google.com/file/d/15stAVzoQeCG8-Z0HiEWVJuunAhP6MatR/view?usp=sharing)
 
 # Challenge Theme - UN's 17 SDG's 
 # Money Ethics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -12,57 +10,31 @@ _ Money Ethics platform is your gateway &amp; to lauching your first startup by 
 **Creating is a startup is like having your own child.** 
 
 The term startup refers to a company in the first stages of operations. Startups are founded by one or more entrepreneurs who want to develop a product or service for which they believe there is demand. These companies generally start with high costs and limited revenue, which is why they look for capital from a variety of sources such as venture capitalists.
+
 Many startups turn to others for more funding, including family, friends, and venture capitalists. SILLICON VALLEY is known for its strong venture capitalist community and is a popular destination for startups, but is also widely considered the most demanding arena.
 
-![image]()
+![image](https://drive.google.com/file/d/1_9Ct4cTBOnaMRyY85jJRYl_BPbewmqSn/view?usp=sharing)
 
 ## Problem Statment
 
-Coral Reefs have been dying out at a rapid pace over the years. This is due to a wide set of reasons like inadequate awareness among the community, lack of knowledgeable resources for all ages, ineffective climate measures etc. Human activity and a warming planet are rapidly degrading these precious and fragile ecosystems.
+Raising seed capital for launching a startup is quite a hustle in Pakistan. There is no direct online platform for linking a startup directly with a potential investor for seed money. 
 
-![image](https://static.wixstatic.com/media/c0fb09_f9afbb32cc274256a5e8c384cdbc3013~mv2.jpg/v1/fill/w_512,h_288,al_c/c0fb09_f9afbb32cc274256a5e8c384cdbc3013~mv2.jpg)
+![image](https://images.yourstory.com/production/document_image/mystoryimage/r9yoopao-Seed-Capital.png)
 
 ## Our Solution 
+We at Money Ethics provide a gateaway for startups and companies to directly get in touch with potential investors.
+ - 
 
-- Raising awareness & providing a platform “Coral Gardeners” for global partnerships (sponsorships with different companies):
-  - **_“Coral Gardeners”_**  platform where people gather information about Coral Reefs and how to preserve them.
-  - World Map that provides clear indicators & upcoming events.
-  - The community will be informed about the activities that our partners sponsored.  
-- To promote and train people of all ages using augmented reality with the help of AI so they can apply real-time techniques effectively. Our platform will be a hub for people, companies and public bodies that sync their efforts related with Coral Reef preservation. Funds, grants, events and other related activities’ data are standardised and stored on our platform. People could find the most updated data on our servers. 
-
-## How We Can Make A Difference
-### Coral Reef Restoration
-Coral reefs can be restored through the following ways: 
- - coral farming, 
- - creating substrates, 
- - relocation, 
- - invasive algae, 
- - micro-fragmentation and, 
- -fusion.
-
-### Our Platform: Coral Gardeners
-Our platform will provide a list of restoration activities globally. We will be an intermediary between experts who undertake these activities, volunteers, sponsor companies and enthusiasts.   
-- CTA Button 1: Join Upcoming Diving Event 
-- CTA Button 2: Dive to meta Coral Reef virtually
-- CTA Button 3: Buy a Coral NFT
+### Our Platform: Money Ethics
+Our platform will provide a list of investment activities regionally. We will be an intermediary between experts and startups for different    
 
 ## Active Involvement and make real impact:
-### Snorkelling or Scuba-diving 
-Join a micro-fragmentation diving event 
-Support locals to do micro-fragmentation (like “Adopt a Coral”) 
-Data comparisons to measure our impact (A/B Testing for scientific usage)
 
-**Ömer Kılıç diving**
+![image](https://cdn.corporatefinanceinstitute.com/assets/ROI-return-on-investment.jpeg)
 
-![image](https://drive.google.com/uc?export=view&id=1Qrim18Uy-659NpcXYFdyT7Um7tV6Yuzq)
-
-
-### Virtual World (metaverse or others..) tour
-Re-direct to a metaverse tour with a group of people together
-Provide an NFT artefacts marketplace where the revenue generated will be used on the above activities
-
-### Micro-fragmentation
-Micro-fragmentation technique is pretty new &  labor-intensive. CORAL GARDENERS play a vital role to enable collaboration among experts, volunteers, sponsors and all the rest of our small world village..
+### Micro-financing schemes 
+Micro-financiing schemes provides a safegaaurd for both the investors and the upcoming startup having a lozz-profit margin gap. In this way, if a potential investor
+want to check the Return-To-Investment (ROI) ratio on its investment keeping them away from a big loss. This is a way to do.
 
 ![image](https://drive.google.com/uc?export=view&id=1i2vaPEIY0fKSr_gNfqSZa_hLNDyYYdRM)
 
