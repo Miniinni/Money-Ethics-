@@ -4,12 +4,13 @@
 ![image](https://drive.google.com/file/d/1vPoa4nubrY9_PcY6rdqe9Wm_OG9MCLmB/view?usp=sharing)
 
 # Challenge Theme - UN's 17 SDG's 
-# Money Ethics 
+# Money Ethics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 _🐚 CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs. 🦑🐠🐋🐡🦞🦀_
 
 ## Introduction
 **Creating is a startup is like having your own child.** 
+
 The term startup refers to a company in the first stages of operations. Startups are founded by one or more entrepreneurs who want to develop a product or service for which they believe there is demand. These companies generally start with high costs and limited revenue, which is why they look for capital from a variety of sources such as venture capitalists.
 Many startups turn to others for more funding, including family, friends, and venture capitalists. SILLICON VALLEY is known for its strong venture capitalist community and is a popular destination for startups, but is also widely considered the most demanding arena.
 
