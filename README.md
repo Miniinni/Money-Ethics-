@@ -1,12 +1,12 @@
 # Money-Ethics-
 # Developer's Day Hackathon 22
  
-![image](https://drive.google.com/file/d/1vPoa4nubrY9_PcY6rdqe9Wm_OG9MCLmB/view?usp=sharing)
+![image](https://drive.google.com/file/d/15stAVzoQeCG8-Z0HiEWVJuunAhP6MatR/view?usp=sharing)
 
 # Challenge Theme - UN's 17 SDG's 
 # Money Ethics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-_🐚 CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs. 🦑🐠🐋🐡🦞🦀_
+_ Money Ethics platform is your gateway &amp; to lauching your first startup by directly contacting the investors. _
 
 ## Introduction
 **Creating is a startup is like having your own child.** 
