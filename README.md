@@ -1,4 +1,4 @@
-# Money-Ethics-
+# Money-Ethics
 # Developer's Day Hackathon 22
 
 # Challenge Theme - UN's 17 SDG's 
@@ -7,13 +7,13 @@
 _ Money Ethics platform is your gateway &amp; to lauching your first startup by directly contacting the investors. _
 
 ## Introduction
-**Creating is a startup is like having your own child.** 
+**Creating a startup is like having your own child.** 
 
 The term startup refers to a company in the first stages of operations. Startups are founded by one or more entrepreneurs who want to develop a product or service for which they believe there is demand. These companies generally start with high costs and limited revenue, which is why they look for capital from a variety of sources such as venture capitalists.
 
 Many startups turn to others for more funding, including family, friends, and venture capitalists. SILLICON VALLEY is known for its strong venture capitalist community and is a popular destination for startups, but is also widely considered the most demanding arena.
 
-![image](https://drive.google.com/file/d/1_9Ct4cTBOnaMRyY85jJRYl_BPbewmqSn/view?usp=sharing)
+![image](https://upload.wikimedia.org/wikipedia/en/thumb/7/77/StartUpTitleScreen.png/250px-StartUpTitleScreen.png)
 
 ## Problem Statment
 
