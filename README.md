@@ -38,41 +38,19 @@ want to check the Return-To-Investment (ROI) ratio on its investment keeping the
 
 ![image](https://drive.google.com/uc?export=view&id=1i2vaPEIY0fKSr_gNfqSZa_hLNDyYYdRM)
 
-## Marketplace for NFT creators
-CORAL GARDENERS will provide a marketplace for NFT creators who have underwater related arts. We are open to partnership with other NFT buying/selling marketplaces to increase our impact.
-
 ### PARTNERSHIPS
 - Sponsor our events
 - Transparent social responsibility 
 
 ***Mother Coral’s 💟 needs require multi-stakeholder partnership globally. CORAL GARDENERS provides the necessary talent, motivation for social mobilization and measurable social responsibility activities.***
 
-[85 Miles of Atlantic Coral Reef Stayed Hidden Until Now](https://www.livescience.com/63442-new-coral-reef-found.html)
-
-
 ## Technology Used
-- [Oracle APEX](https://apex.oracle.com/en/)
-- [NTF](https://solsea.io/)
-- [Canva](https://www.canva.com)
-- [Adobe Photoshop - Canvas](https://www.adobe.com/)
-- [Vllo and Davinci - Videos]
-
-## Building the Coral Gardeners.sql file
-**_Steps_**
-  -  Login to APEX as the developer with your credentials
+- [Figma](https://www.figma.com/file/GpFnBjNhvexg2fFlbNxfyq/Money-Ethics?node-id=0%3A1)
+- [Canva](https://www.canva.com/design/DAFAIhUYOn0/SzExju-LWCFVAnZOYLoXsg/watch?utm_content=DAFAIhUYOn0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 ![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
 
-  -  if you want to install the app (which is an SQL file) you need to do the Import of the Application and pass that file across to import and build the 
-     supporting objects
-  - You should run the script connected to SQL*Plus as the Oracle user APEX_220100 or as the owner (parsing schema) of the application
-  -  or for standard tables use SQL Workspace to run sql script provided
-  -  Use Object Browswer to see what database objects the script has created. TADA
-
 ![image](https://drive.google.com/uc?export=view&id=1mXlCXNGoyx-FXU0gSI0e8WC7Cjt6ByrK)
-
-## Research Document
-[Look at our Reseach Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
 
 ## Presentation Slides
 [Our presentation slides, please !](https://docs.google.com/presentation/d/1enL62UDvzbNuPkFUlX1hiT0SCmMeUw5ksvug5ez0YnQ/edit#slide=id.g126be710dcb_7_11)
@@ -86,8 +64,5 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 ![image](https://drive.google.com/uc?export=view&id=1UmNAywayFWZ3WzFjQA1OmYnsRvmsPpKq) 
 ## United Nations Targeted SDG’s (Sustainable Development Goals) 
 
-<img align="left" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/8_SDG_MakeEveryDayCount_Gifs_GDU.gif">
-<img align="left" width="200" height="200" src="https://itpo-germany.org/wp-content/uploads/2021/06/9_SDG_MakeEveryDayCount_Gifs_GDU.gif">
-<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1yWsPJCIS7d0btHrVEOWEfIQht9fJA8KP">
-<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1bgsCpGHovZ_nX-1vCvIv-XTfOuH5Qp_Q">
+<img align="left" width="200" height="200" src="">
 <img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=11iRNTzfTUhCLroc1jm5vBYCSYxvGcJ60">
