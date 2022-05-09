@@ -40,17 +40,12 @@ want to check the Return-To-Investment (ROI) ratio on its investment keeping the
 
 ### PARTNERSHIPS
 - Sponsor our events
-- Transparent social responsibility 
 
 ***Mother Coral’s 💟 needs require multi-stakeholder partnership globally. CORAL GARDENERS provides the necessary talent, motivation for social mobilization and measurable social responsibility activities.***
 
 ## Technology Used
 - [Figma](https://www.figma.com/file/GpFnBjNhvexg2fFlbNxfyq/Money-Ethics?node-id=0%3A1)
 - [Canva](https://www.canva.com/design/DAFAIhUYOn0/SzExju-LWCFVAnZOYLoXsg/watch?utm_content=DAFAIhUYOn0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-
-![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
-
-![image](https://drive.google.com/uc?export=view&id=1mXlCXNGoyx-FXU0gSI0e8WC7Cjt6ByrK)
 
 ## Presentation Slides
 [Our presentation slides, please !](https://docs.google.com/presentation/d/1enL62UDvzbNuPkFUlX1hiT0SCmMeUw5ksvug5ez0YnQ/edit#slide=id.g126be710dcb_7_11)
